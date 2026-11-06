@@ -43,7 +43,7 @@
               android:value="@integer/google_play_services_version" />
         </config-file>
 
-        <config-file target="res/values/cdv_strings.xml" parent="/resources">
+        <config-file target="app/src/main/res/values/cdv_strings.xml" parent="/resources">
             <string name="app_id">$APP_ID</string>
         </config-file>
 

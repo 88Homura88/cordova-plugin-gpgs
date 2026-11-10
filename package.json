@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-gpgs-tankprincess",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Modern Cordova plugin for Google Play Games Services v2 API with comprehensive gaming features",
   "main": "./www/gpgs.js",
   "repository": {

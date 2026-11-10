@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugin
         id="cordova-plugin-gpgs-tankprincess"
-        version="0.0.6"
+        version="0.0.7"
         xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
@@ -20,7 +20,7 @@
     </engines>
 
     <platform name="android">
-        <preference name="APP_ID" />
+        <preference name="APP_ID" default="1047760900741" />
         <preference name="PLAY_SERVICES_VERSION" default="23.2.0" />
         <preference name="GPGS_DEBUG" default="false" />
 
